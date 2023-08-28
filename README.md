@@ -1,3 +1,3 @@
 # repository-test
-my new test repository
+this is my new git test repository
 <br>author- Abhay Shankar Deo
